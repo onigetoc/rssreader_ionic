@@ -5,7 +5,7 @@
 
 	.constant("settings", {
 		title:"Raymond Camden's Blog",
-		rss:"http://feeds.feedburner.com/raymondcamdensblog"
+		rss:"http://rt.com/rss/"
 	})
 
 	.config(['$stateProvider', '$urlRouterProvider', function($stateProvider, $urlRouterProvider) {
